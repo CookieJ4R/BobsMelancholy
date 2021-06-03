@@ -6,6 +6,6 @@ It consists of 5 levels. A controller, while not required, improves the game exp
 The game itself may be released on itch.io in the future. For now the game can only be played by building the game itself through unity.
 
 ## Screenshots
-![Menu](menu.PNG)
-![Tutorial](tutorial.PNG)
-![Personal_best](personal_best.PNG)
+![Menu](menu.png)
+![Tutorial](tutorial.png)
+![Personal_best](personal_best.png)
